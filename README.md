@@ -1,1 +1,1 @@
-# 3cx
+This tutorial will guide you through the process of setting up a Python script to receive 3CX Call Detail Records (CDR) and save the data to a MySQL database. We will cover the steps to install the necessary server and Python environment, deploy the Python script, and set up the MySQL database to store the CDR data.
