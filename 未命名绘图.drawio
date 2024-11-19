@@ -4,16 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NgW_0a6IRHT3f6ey_GKB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NgW_0a6IRHT3f6ey_GKB-1">
+        <mxCell id="NgW_0a6IRHT3f6ey_GKB-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="200" as="targetPoint" />
+            <mxPoint x="90" y="90" as="sourcePoint" />
+            <mxPoint x="190" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NgW_0a6IRHT3f6ey_GKB-1" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="110" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="NgW_0a6IRHT3f6ey_GKB-10" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="NgW_0a6IRHT3f6ey_GKB-9">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="NgW_0a6IRHT3f6ey_GKB-3" value="" style="shape=lineEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="NgW_0a6IRHT3f6ey_GKB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NgW_0a6IRHT3f6ey_GKB-4" target="NgW_0a6IRHT3f6ey_GKB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NgW_0a6IRHT3f6ey_GKB-4" value="" style="shape=mxgraph.cisco.servers.sip_proxy_server;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="203" width="45" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgW_0a6IRHT3f6ey_GKB-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.sip_uri_um_dial_plan;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="55" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
